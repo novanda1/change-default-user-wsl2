@@ -1,4 +1,4 @@
-# Change Default User on WSL
+# Change Default User on WSL 2
 rarely change default user are being struggle, but sometimes it will happen.
 
 ### Usage
